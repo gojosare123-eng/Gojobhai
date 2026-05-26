@@ -273,7 +273,29 @@ https://sliv.cr7x.workers.dev/iptv/?c=736f6e7973706f72747374656e32
 https://sliv.cr7x.workers.dev/iptv/?c=736f6e7973706f72747374656e3368696e6469
 #EXTINF:-1 tvg-id="sonysportsten3hindi" tvg-name="SonySportsTen3Hindi" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/10/2c/14102c78-e5ed-07ec-3dbc-9691bd96b9f6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png" group-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/10/2c/14102c78-e5ed-07ec-3dbc-9691bd96b9f6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png" group-title="IPTVORG | Sports",SonySportsTen3Hindi
 https://sliv.cr7x.workers.dev/iptv/?c=736f6e7973706f72747374656e3368696e6469
-#EXTINF:-1 tvg-id="starsports1" tvg-name="StarSports1" tvg-logo="https://whythishome.github.io/epg/logos/in/star-sports-1.png" group-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/10/2c/14102c78-e5ed-07ec-3dbc-9691bd96b9f6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png" group-title="IPTVORG | Sports",StarSports1
+#EXTINF:-1 tvg-id="starsports1" tvg-name="StarSports1" tvg-logo="https://whythishome.github.io/epg/logos/in/star-sports-1.png" group-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/10/2c/14102c78-e5ed-07ec-3dbc-9691bd96b9f6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png" group-title="IPTVORG | Sports",StarSports1l
 https://sliv.cr7x.workers.dev/iptv/?c=7374617273706f72747331
 #EXTINF:-1 tvg-id="starsports1hindi" tvg-name="StarSports1Hindi" tvg-logo="https://whythishome.github.io/epg/logos/in/star-sports-1-hindi.png" group-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/10/2c/14102c78-e5ed-07ec-3dbc-9691bd96b9f6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png" group-title="IPTVORG | Sports",StarSports1Hindi
 https://sliv.cr7x.workers.dev/iptv/?c=7374617273706f7274733168696e6469
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_3" tvg-name="STAR SPORTS 3" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwYlS-e4srI2PsM2qdAnK_MTfIAQ-zIGqmw&s" group-title="『STB』⛩️ | SPORTS",STAR SPORTS 3
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_3&uid=999&pass=999
+#EXTINF:-1 tvg-id="HOTSTARLIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwYlS-e4srI2PsM2qdAnK_MTfIAQ-zIGqmw&s" group-title="『STB』⛩️ | SPORTS",STAR SPORTS SELECT 1 HD
+http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD&uid=999&pass=999
+#EXTINF:-1 tvg-id="HOTSTARLIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwYlS-e4srI2PsM2qdAnK_MTfIAQ-zIGqmw&s" group-title="『STB』⛩️ | SPORTS",STAR SPORTS SELECT 2 HD
+http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD&uid=999&pass=999
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  ,  Willow Adsfree
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports 1 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Kayo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , IPL TV
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports Tamil
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports Telugu
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTINF:-1 group-title="Cricket | Live" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , FOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
